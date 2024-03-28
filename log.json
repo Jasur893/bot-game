@@ -1,0 +1,74 @@
+{
+    "update_id": 171354926,
+    "callback_query": {
+        "id": "4632589402645185061",
+        "from": {
+            "id": 1078608772,
+            "is_bot": false,
+            "first_name": "Jasur",
+            "username": "jasur3389",
+            "language_code": "ru"
+        },
+        "message": {
+            "message_id": 865,
+            "from": {
+                "id": 7082582670,
+                "is_bot": true,
+                "first_name": "My Bot",
+                "username": "My9393Bot"
+            },
+            "chat": {
+                "id": 1078608772,
+                "first_name": "Jasur",
+                "username": "jasur3389",
+                "type": "private"
+            },
+            "date": 1711537394,
+            "game": {
+                "title": "Temple Run 2",
+                "description": "Temple run - mashxur bo'lgan o'yin haqida",
+                "photo": [
+                    {
+                        "file_id": "AgACAgIAAxUAAWYD_PJ3GovN8r6RIjUwjPgZhmG1AALX0TEbj8ohSD45Yn_F2ZJ7AQADAgADcwADNAQ",
+                        "file_unique_id": "AQAD19ExG4_KIUh4",
+                        "file_size": 1202,
+                        "width": 90,
+                        "height": 51
+                    },
+                    {
+                        "file_id": "AgACAgIAAxUAAWYD_PJ3GovN8r6RIjUwjPgZhmG1AALX0TEbj8ohSD45Yn_F2ZJ7AQADAgADbQADNAQ",
+                        "file_unique_id": "AQAD19ExG4_KIUhy",
+                        "file_size": 15942,
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file_id": "AgACAgIAAxUAAWYD_PJ3GovN8r6RIjUwjPgZhmG1AALX0TEbj8ohSD45Yn_F2ZJ7AQADAgADeAADNAQ",
+                        "file_unique_id": "AQAD19ExG4_KIUh9",
+                        "file_size": 55486,
+                        "width": 640,
+                        "height": 360
+                    }
+                ]
+            },
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "Temple Run 2 \ud83c\udff5",
+                            "callback_game": []
+                        }
+                    ],
+                    [
+                        {
+                            "text": "Do'stlarni taklif qilish \ud83d\udc68\ud83c\udfff\u200d\ud83e\udd1d\u200d\ud83d\udc68\ud83c\udffe",
+                            "url": "https:\/\/t.me\/share\/url?url=https:\/\/t.me\/My9393Bot&text=\ud83d\ude0d\ud83d\ude0e%20Salom,%20biz%20dostlarimiz%20bilan%20yangi%20guruhda,%20sovgalar%20oyinini%20tashkil%20etdik,%20omadingizni%20sinab%20kormaysizmi%20?!"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "574401956710684737",
+        "game_short_name": "temple_run"
+    }
+}
